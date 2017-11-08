@@ -1,0 +1,31 @@
+<!--<h2 class="page-header">Account Login</h2>
+<form method="post" action="/users/login">
+    <div class="form-group">
+        <label>Username</label>
+        <input type="text" class="form-control" placeholder="Username" name="username">
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input type="password" class="form-control" placeholder="Password" name="password">
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>-->
+
+<div id="header" class="container">
+
+    <form class="form-signin" method="post" action="/users/login">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <!--<label for="inputEmail" class="sr-only">Username</label>-->
+        <input type="text" id="inputEmail" class="form-control" placeholder="Username" required autofocus name="username">
+        <!--<label for="inputPassword" class="sr-only">Password</label>-->
+        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required name="password">
+        <div class="checkbox">
+            <label>
+                <!--<input type="checkbox" value="remember-me"> Remember me-->
+            </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+        <a href="/users/register" style="margin-left: 50px; color: white; font-size: 1.3em;">Sign up >></a>
+    </form>
+
+</div>

@@ -1,0 +1,72 @@
+﻿WEBVTT
+
+00:00:01.010 --> 00:00:06.941
+Hi
+In this video we are going to describe the RiskID application. To start using RiskID you need get an user account. Let's do it.
+
+00:00:10.002 --> 00:00:15.225
+Go to the end of user manual page and click Sign Up button.
+
+00:00:19.942 --> 00:00:30.108
+Fill all field in form, submit it and log in.
+
+00:01:05.679 --> 00:01:09.867
+Welcome to RiskID application.
+
+00:01:11.015 --> 00:01:19.199
+This page show in left the Connection List. All connections were regrouped by their similarity.
+
+00:01:21.840 --> 00:01:30.041
+There is three group easily identifiable by their different background color in the list.
+
+00:01:38.629 --> 00:01:42.807
+Each connection in the list, from left to right, display information about their current label:
+red circle to botnet, green circle to normal and yellow circle to unlabeled.
+
+00:01:45.274 --> 00:01:47.496
+Next to it the index number of the connection in the list is displayed.
+
+00:01:48.330 --> 00:01:57.521
+Followed appears a color representation for three feature in the connection:
+periodicity (represented by orange), duration (represented by green) and size (represented by blue).
+
+00:01:57.478 --> 00:02:04.667
+The intensity in the color represents the high or low presence of the characteristics in the connection.
+
+00:02:06.642 --> 00:02:20.851
+A bar on the left side of connections unlabelled display the probability of botnet (red bar) or normal (green bar) label
+and next to it a percent number means the confidence level for this prediction.
+
+00:02:29.126 --> 00:02:35.354
+If you clicked a connection in the list more information about that will be displayed in right section.
+
+00:02:41.859 --> 00:02:52.036
+A bar chart display the connection symbol distribution, and a pie chart show connection periodicity feature.
+
+00:02:54.859 --> 00:03:05.036
+Click the button show sequences to show the STF character sequence for all connections in the Connection View.
+
+00:03:25.859 --> 00:03:31.036
+Click close all connections to clean the Connection View
+
+00:03:35.820 --> 00:03:47.047
+When an unlabeled connection is selected the detailed block display both
+the botnet and normal label connection more close to selected connection.
+
+00:04:01.786 --> 00:04:10.953
+If an unlabeled connection is selected the rest of them will be reordered by similarity with the selected connection.
+
+00:04:20.819 --> 00:04:30.008
+To select a label for unlabeled connection two buttons are in the bottom of each connection view.
+
+00:04:35.006 --> 00:04:42.193
+Red button to botnet label and green button to normal label.
+
+00:04:43.011 --> 00:04:53.176
+You can also filter connections in the list using some options on top.
+
+00:04:56.246 --> 00:05:05.431
+Once your task over, you could download the resultant labeled dataset doing clicked on the "Save Labeling" button.
+
+00:05:07.262 --> 00:05:13.428
+Thanks a lot for your contribution to this work.

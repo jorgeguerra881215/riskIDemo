@@ -1,0 +1,40 @@
+
+.urank-ranking-svg{
+	float: left;
+}
+
+.urank-ranking-x.urank-ranking-axis path,
+.urank-ranking-x.urank-ranking-axis line {
+	fill: none;
+	stroke : #000;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.urank-ranking-y.urank-ranking-axis path {
+    fill: none;
+	stroke-width : 0;
+}
+
+.urank-ranking-y.urank-ranking-axis line {
+	fill: none;
+    stroke: none;
+    opacity: 0.5;
+}
+
+.urank-ranking-y.urank-ranking-axis .tick {
+	stroke : none;
+	stroke-width : 0;
+}
+
+.urank-ranking-y.urank-ranking-axis .tick > text {
+    font-family : sans-serif;
+}
+
+.urank-ranking-stackedbar rect.urank-ranking-light-background {
+    fill: #eee;
+}
+
+.urank-ranking-stackedbar rect.urank-ranking-dark-background {
+    fill: #ddd;
+}

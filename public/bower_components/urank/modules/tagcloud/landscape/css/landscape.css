@@ -1,0 +1,51 @@
+
+.landscapeBrush .extent {
+stroke: black;
+fill: #B0B0B0;
+fill-opacity: .5;
+}
+
+#eexcess_landscape_box_urank{
+    overflow-y: auto;
+	z-index:2;
+
+
+}
+.eexcess_landscape_box_shadow{
+	box-shadow: inset .2em .2em .5em #ccc, inset -.2em -.2em .5em #ccc;
+	width:220px;
+    padding:5px;
+    background: white;
+
+    display:inline-block;
+	/*position:absolute;*/
+}
+
+#eexcess_landscape_box {
+}
+
+#eexcess_landscape_vis_main {
+
+}
+
+#eexcess_landscape_tag_cloud {
+
+
+}
+
+#div-landscape-wrap-legends {
+	display: inline-block;
+	margin-top: .5em;
+	float: right;
+	width: 8em;
+	margin-right: 10px;
+}
+
+#landscapeDocPoints .heighlight {
+
+}
+
+#landscapeDocPoints .deheighlight {
+
+}
+

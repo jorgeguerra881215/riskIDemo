@@ -1,0 +1,53 @@
+<div>
+    <section id="one" class="main style1">
+        <div class="container">
+            <div class="row 150%">
+                <div class="6u 12u$(medium)">
+                    <header class="major">
+                        <h2>Network flows codification strategy<br />
+                        </h2>
+                    </header>
+		    <p> RiskID uses an encoding strategy for representing the
+			network behavior that was first  proposed by <a
+href="https://stratosphereips.org/"><strong>Stratosphere Intrusion Prevention
+System (IPS)</strong></a>. The strategy consists of aggregating the flows
+according to a 4-tuple composed of: source and   destination IP addresses,
+destination port and protocol. All the flows matching a given tuple are
+aggregated together to compose the so called <em>Stratosphere connection</em>. A
+<em>Stratosphere connection</em> provides us with information about the interaction of  particular client
+with a specific service. From a traffic capture several of these Stratosphere connections are created
+                    </p>
+
+                </div>
+                <div class="6u$ 12u$(medium) important(medium)">
+                    <span class="image fit"><img src="/bower_components/user_manual/images/codification.png" alt="" /></span>
+                </div>
+            </div>
+            <div class="row 150%">
+                <p>
+                    A Stratosphere connection is computed as follows:
+                </p>
+                <ul>
+                    <li>Calculate three features for each flow: size, duration and
+                        periodicity.</li>
+                    <li>Depending on the values for the three considered features, assign to each flow a state symbol according to the above table. </li>
+		    <li>Assign also a special symbol for the time difference between flows.
+                </ul>
+                <p>
+
+                    After the assignment, each <em>Stratosphere connection</em> will end with an string
+                    of symbols representing the behavior of a given user to a given service in the network. 
+		    We usually refers to this letter representation as the behavioral model of a Stratosphere connection.
+ 
+                    Example:
+                </p>
+                <h3>
+                    <strong>2.4.R*R.R.R*a*b*a*a*b*b*a*R.R*R.R*a*a*b*a*a*a*a*</strong>
+                </h3>
+		<p>
+
+		</p>
+            </div>
+        </div>
+    </section>
+</div>

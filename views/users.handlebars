@@ -1,0 +1,34 @@
+<style type="text/css">
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+<div class="container">
+    <h2>Users List!</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>User Name</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Token</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#if users}}
+                {{#each users}}
+                    <tr>
+                        <td>{{username}}</td>
+                        <td>{{name}}</td>
+                        <td>{{email}}</td>
+                        <td>{{token}}</td>
+                        <td><a href="#">Edit</a><h3>|</h3><a href="#">Delete</a></td>
+                    </tr>
+                {{/each}}
+            {{/if}}
+        </tbody>
+    </table>
+
+</div>

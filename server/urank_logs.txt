@@ -1,0 +1,327 @@
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.47.55,Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.2,Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.2,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.6,Close Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.8,Close Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.11,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.16,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.16,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.16,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.26,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.28,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.29,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.36,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.36,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.36,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.40,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.41,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.43,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.51,Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.51,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.51,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.48.58,Close Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.49.0,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.49.1,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.49.35,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.49.35,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.49.35,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.50.9,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.50.10,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.50.11,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.50.15,Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.50.20,Close Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.51.56,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.51.56,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.51.56,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.52.24,Label Botnet,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.7,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.15,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.15,Close Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.15,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.15,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.35,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.35,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.35,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.40,Label Botnet,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.55,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.55,Close Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.53.55,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.5,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.5,Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.5,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.14,Label Botnet,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.21,Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.21,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.32,Label Botnet,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.35,Close Comparative Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.35,Close Comparative Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.35,Close Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.35,Close Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.54.35,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.57.54,Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.57.54,Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.57.54,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.0,Label Botnet,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.6,Close Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.6,Close Comparative Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.7,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.11,Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.11,Connection,7972, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.58.11,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.39,Close Connection,7972, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.39,Close Comparative Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.39,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.50,Connection,2689, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.50,Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_22.59.50,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.11,Label Botnet,2689, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.18,Close Comparative Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.18,Close Connection,2689, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.18,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.26,Connection,2366, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.26,Connection,8085, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.26,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.28,Close Connection,2366, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.28,Close Comparative Connection,8085, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.28,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.34,Connection,2370, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.34,Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.34,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.46,Label Botnet,2370, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.49,Close Comparative Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.50,Close Connection,2370, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.50,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.56,Connection,1505, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.56,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.0.56,Connection,7824, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.15,Label Botnet,1505, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.20,Close Connection,1505, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.20,Close Comparative Connection,7824, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.20,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.49,Connection,7356, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.49,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.49,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.1.57,Label Botnet,7356, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.2,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.2,Close Connection,7356, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.2,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.15,Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.15,Connection,7982, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.15,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.24,Label Botnet,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.29,Close Comparative Connection,7982, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.29,Close Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.29,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.34,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.34,Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.34,Connection,5284, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.48,Close Connection,5284, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.49,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.49,Close Comparative Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.59,Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.59,Connection,5106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.2.59,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.26,Label Botnet,5106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.33,Close Comparative Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.33,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.33,Close Connection,5106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.42,Connection,1591, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.42,Connection,8023, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.3.42,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.17,Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.27,Close Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.27,Close Comparative Connection,8023, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.28,Close Connection,1591, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.28,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.33,Connection,1591, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.33,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.4.33,Connection,8023, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.7.56,Label Botnet,1591, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.44,Connection,5105, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.50,Label Botnet,5105, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.52,Close Comparative Connection,8023, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.52,Close Connection,1591, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.52,Close Connection,5105, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.8.52,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.2,Connection,245, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.2,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.2,Connection,4430, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.13,Label Botnet,245, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.15,Connection,726, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.15,Connection,8085, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.20,Label Botnet,726, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.22,Close Comparative Connection,8085, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.22,Close Connection,245, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.22,Close Connection,726, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.22,Close Comparative Connection,4430, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.23,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.32,Connection,4484, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.32,Connection,4448, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.32,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.36,Close Connection,4484, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.36,Close Comparative Connection,4448, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.9.36,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.8,Connection,2323, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.8,Connection,6260, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.8,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.24,Label Botnet,2323, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.27,Close Comparative Connection,6260, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.27,Close Connection,2323, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.27,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.42,Connection,7069, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.42,Connection,5106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.10.42,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.17,Close Connection,7069, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.17,Close Comparative Connection,5106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.17,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.29,Connection,3423, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.29,Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.29,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.40,Close Connection,3423, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.39,Close Comparative Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.40,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.47,Connection,5202, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.47,Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.11.47,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.7,Close Comparative Connection,7387, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.7,Close Connection,5202, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.8,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.26,Connection,4106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.26,Connection,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.27,Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.33,Label Normal,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.12.58,Connection,4130, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.13,Close Connection,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.13,Close Comparative Connection,4106, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.14,Close Comparative Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.14,Close Connection,4130, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.32,Connection,8601, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.32,Connection,8579, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.32,Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.49,Connection,3050, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.13.49,Connection,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.5,Ranking Reset,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.15,Connection,3050, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.15,Connection,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.15,Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.52,Close Comparative Connection,1900, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.52,Close Connection,3050, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.14.52,Close Comparative Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.15.2,Save Labeling,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.20.36,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.20.48,Ranking Reset,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.4,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.7,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.8,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.10,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.30,Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.35,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.42,Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.21.50,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.0,Close Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.4,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.6,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.8,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.9,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.10,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.12,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.13,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.22.17,Filter,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.4,Close Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.9,Show Sequence Connection, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.22,Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.24,Show Sequence Connection, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.35,Close Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.39,Show Characteristic Legend,0, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.59,Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.59,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.23.59,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.10,Sequence Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.14,Show Sequence Connection, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.31,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.31,Close Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.31,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.47,Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.47,Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.24.47,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.25.6,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.25.6,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.39,Connection,2689, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.53,Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.55,Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.57,Connection,7972, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.57,Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.58,Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.59,Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.26.59,Connection,2370, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.5,Connection,1505, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.5,Connection,7824, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.9,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.11,Connection,8100, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.11,Connection,7982, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.27.13,Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Comparative Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,275, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,1514, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,2331, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Comparative Connection,2409, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Connection,7972, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.25,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Connection,2689, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Connection,2370, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Connection,8100, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Connection,1505, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Comparative Connection,7982, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Connection,8176, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Comparative Connection,8741, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Comparative Connection,7824, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.28.26,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.16,Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.16,Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.16,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.19,Label Botnet,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.36,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.36,Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.40,Close Connection,3787, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.40,Close Comparative Connection,322, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.40,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.40,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.40,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.46,Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.46,Connection,1614, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.45,Connection,4106, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.45,Connection,4366, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.45,Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.46,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.30.55,Label Botnet,7954, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.54,Label Normal,4366, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.57,Close Connection,4366, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.57,Close Comparative Connection,4106, full app
+3sIRMf2Do8LM2mGNhSdr1TlpdE9kzFrQ,Jorge,az7a1szv08p8pvi,2017-9-4_2.30.57,Close Comparative Connection,4534, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.2,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.9,Close Connection,7954, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.9,Close Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.9,Close Comparative Connection,1614, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.9,Close Comparative Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.18,Connection,7961, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.18,Connection,1772, full app
+2R5iR1t5WN3DgQ2tYfCMdXPKk8kBCWP7,yisel,shc9k4kjmiqc9pb9,2017-9-3_23.31.18,Connection,1614, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.21.50,Connection,322, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.21.50,Connection,3787, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.21.50,Connection,1772, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.30,Connection,2331, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.30,Connection,1614, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.35,Close Connection,3787, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.35,Close Comparative Connection,322, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.35,Close Connection,2331, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.35,Close Comparative Connection,1614, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.35,Close Comparative Connection,1772, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.37,Connection,3787, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.37,Connection,322, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.37,Connection,1772, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.39,Sequence Connection,3787, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.44,Sequence Connection,322, full app
+QMlKWzfTqtqyCtz7ESfqAY-11vFTei4a,User Test,w2t8pz34cc7q4cxr,2017-9-4_14.22.47,Show Sequence Connection, full app

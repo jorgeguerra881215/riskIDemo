@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RiskID-Connection</title>
+    <!--<link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">-->
+    <link rel="stylesheet" href="/css/login-style.css">
+    <link rel="stylesheet" href="/css/nav-bar.css">
+    <!-- bower:css -->
+    <link rel="stylesheet" href="/bower_components/jquery-ui/themes/base/jquery-ui.min.css" />
+    <link rel="stylesheet" href="/bower_components/hint.css/hint.min.css" />
+    <link rel="stylesheet" href="/bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" />
+    <link rel="stylesheet" href="/bower_components/urank/css/urank.css" />
+    <link rel="stylesheet" href="/bower_components/urank/css/urank-blocks-default.css" />
+    <link rel="stylesheet" href="/bower_components/urank/css/vis-ranking.css" />
+    <!-- endbower -->
+    <link rel="stylesheet" type="text/css" href="/css/main-style.css" />
+
+</head>
+<body>
+
+<!-- Fixed navbar -->
+
+
+<div class="">
+
+    <div class="">
+        {{#if success_msg}}
+            <div class="alert alert-success">{{success_msg}}</div>
+        {{/if}}
+
+        {{#if error_msg}}
+            <div class="alert alert-danger">{{error_msg}}</div>
+        {{/if}}
+
+        {{#if error}}
+            <div class="alert alert-danger">{{error_msg}}</div>
+        {{/if}}
+    </div>
+</div> <!-- /container -->
+{{{body}}}
+
+<!-- bower:js -->
+<script src="/bower_components/jquery/dist/jquery.js"></script>
+<script src="/bower_components/colorbrewer/colorbrewer.js"></script>
+<script src="/bower_components/d3/d3.js"></script>
+<script src="/bower_components/d3pie/d3pie/d3pie.min.js"></script>
+<script src="/bower_components/underscore/underscore.js"></script>
+<script src="/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="/bower_components/jquery-mousewheel/jquery.mousewheel.js"></script>
+<script src="/bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js"></script>
+<script src="/bower_components/velocity/velocity.js"></script>
+<script src="/bower_components/velocity/velocity.ui.js"></script>
+<script src="/bower_components/urank/libs/natural-custom.js"></script>
+<script src="/bower_components/urank/libs/pos/lexer.js"></script>
+<script src="/bower_components/urank/libs/pos/lexicon.js"></script>
+<script src="/bower_components/urank/libs/pos/pos.js"></script>
+<script src="/bower_components/urank/libs/pos/POSTagger.js"></script>
+<script src="/bower_components/urank/model/keywordExtractor.js"></script>
+<script src="/bower_components/urank/model/rankingArray.js"></script>
+<script src="/bower_components/urank/model/rankingModel.js"></script>
+<script src="/bower_components/urank/blocks/contentList.js"></script>
+<script src="/bower_components/urank/blocks/docViewer.js"></script>
+<script src="/bower_components/urank/blocks/tagBox.js"></script>
+<script src="/bower_components/urank/blocks/tagCloud.js"></script>
+<script src="/bower_components/urank/blocks/visCanvas.js"></script>
+<!--<script src="../bower_components/urank/blocks/cloudControl.js"></script>-->
+<script src="/bower_components/urank/modules/tagcloud/tagCloudDefault.js"></script>
+<script src="/bower_components/urank/modules/viscanvas/ranking.js"></script>
+<script src="/bower_components/urank/helper/globals.js"></script>
+<script src="/bower_components/urank/helper/settings.js"></script>
+<script src="/bower_components/urank/helper/utils.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/outerHTML.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/scrollTo.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/fullOffset.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/fullWidth.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/fullHeight.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/getText.js"></script>
+<script src="/bower_components/urank/helper/jquery_functions/pin.js"></script>
+<script src="/bower_components/urank/urank.js"></script>
+<!-- endbower -->
+
+<!-- injector:js -->
+<!-- endinjector -->
+
+<!-- App scripts -->
+<script type="text/javascript" src="/js/dataset-manager.js" charset="utf-8" ></script>
+<script type="text/javascript" src="/js/file-generator.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/main.js" charset="utf-8"></script>
+<script>
+    $( function() {
+        $( "#dialog" ).dialog({
+            autoOpen: false,
+            show: {
+                effect: "blind",
+                duration: 100
+            },
+            hide: {
+                effect: "blind",
+                duration: 100
+            }
+        });
+        $( "#dialog-seguence" ).dialog({
+            autoOpen: false,
+            show: {
+                effect: "blind",
+                duration: 100
+            },
+            hide: {
+                effect: "blind",
+                duration: 100
+            }
+        });
+        $( "#btn-show-legend" ).on( "click", function() {
+            //var urank = new Urank();
+            urank.enterLog('Show Characteristic Legend,0');
+            $( "#dialog" ).dialog( "open" );
+        });
+        /*$("#btn-test").on( "click", function() {
+            console.log('entro');
+            var connection = $(this).attr('sequence');
+            $("#dialog-seguence").html('<p>'+connection+'</p>');
+            $("#dialog-seguence").dialog( "open" );
+        });*/
+    } );
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+
+
+
+.urank-docviewer-container-default {
+    background: -webkit-linear-gradient(top, rgba(175, 175, 175, 1), rgba(170, 170, 170, 1));
+    box-shadow: inset .1em .1em .5em #aaa, inset -.1em -.1em .5em #aaa;
+}

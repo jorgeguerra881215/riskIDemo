@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Urank-Connection</title>
+        <!--<link rel="stylesheet" href="/css/bootstrap.css">
+        <link rel="stylesheet" href="/css/style.css">-->
+
+        <!-- bower:css -->
+        <link rel="stylesheet" href="../../bower_components/jquery-ui/themes/base/jquery-ui.min.css" />
+        <link rel="stylesheet" href="../../bower_components/hint.css/hint.min.css" />
+        <link rel="stylesheet" href="../../bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css" />
+        <link rel="stylesheet" href="../../bower_components/urank/css/urank.css" />
+        <link rel="stylesheet" href="../../bower_components/urank/css/urank-blocks-default.css" />
+        <link rel="stylesheet" href="../../bower_components/urank/css/vis-ranking.css" />
+        <!-- endbower -->
+    </head>
+    <body>
+    <div class="container">
+        <div class="header clearfix">
+            <nav>
+                <ul class="nav nav-pills pull-right">
+                    {{#if user}}
+                        <li role="presentation"><a href="/">Dashboard {{user.name}}</a></li>
+                        <li role="presentation"><a href="/users/logout">Logout</a></li>
+                    {{else}}
+                        <li role="presentation"><a href="/users/login">Login</a></li>
+                        <li role="presentation"><a href="/users/register">Register</a></li>
+                    {{/if}}
+                </ul>
+            </nav>
+            <h3 class="text-muted">Login app</h3>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                {{#if success_msg}}
+                    <div class="alert alert-success">{{success_msg}}</div>
+                {{/if}}
+
+                {{#if error_msg}}
+                    <div class="alert alert-danger">{{error_msg}}</div>
+                {{/if}}
+
+                {{#if error}}
+                    <div class="alert alert-danger">{{error_msg}}</div>
+                {{/if}}
+
+                {{{body}}}
+            </div>
+
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2016 Login App, Inc.</p>
+        </footer>
+
+    </div> <!-- /container -->
+
+    <!-- bower:js -->
+    <script src="../../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../../bower_components/colorbrewer/colorbrewer.js"></script>
+    <script src="../../bower_components/d3/d3.js"></script>
+    <script src="../../bower_components/d3pie/d3pie/d3pie.min.js"></script>
+    <script src="../../bower_components/underscore/underscore.js"></script>
+    <script src="../../bower_components/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../../bower_components/jquery-mousewheel/jquery.mousewheel.js"></script>
+    <script src="../../bower_components/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.js"></script>
+    <script src="../../bower_components/velocity/velocity.js"></script>
+    <script src="../../bower_components/velocity/velocity.ui.js"></script>
+    <script src="../../bower_components/urank/libs/natural-custom.js"></script>
+    <script src="../../bower_components/urank/libs/pos/lexer.js"></script>
+    <script src="../../bower_components/urank/libs/pos/lexicon.js"></script>
+    <script src="../../bower_components/urank/libs/pos/pos.js"></script>
+    <script src="../../bower_components/urank/libs/pos/POSTagger.js"></script>
+    <script src="../../bower_components/urank/model/keywordExtractor.js"></script>
+    <script src="../../bower_components/urank/model/rankingArray.js"></script>
+    <script src="../../bower_components/urank/model/rankingModel.js"></script>
+    <script src="../../bower_components/urank/blocks/contentList.js"></script>
+    <script src="../../bower_components/urank/blocks/docViewer.js"></script>
+    <script src="../../bower_components/urank/blocks/tagBox.js"></script>
+    <script src="../../bower_components/urank/blocks/tagCloud.js"></script>
+    <script src="../../bower_components/urank/blocks/visCanvas.js"></script>
+    <!--<script src="../bower_components/urank/blocks/cloudControl.js"></script>-->
+    <script src="../../bower_components/urank/modules/tagcloud/tagCloudDefault.js"></script>
+    <script src="../../bower_components/urank/modules/viscanvas/ranking.js"></script>
+    <script src="../../bower_components/urank/helper/globals.js"></script>
+    <script src="../../bower_components/urank/helper/settings.js"></script>
+    <script src="../../bower_components/urank/helper/utils.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/outerHTML.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/scrollTo.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/fullOffset.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/fullWidth.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/fullHeight.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/getText.js"></script>
+    <script src="../../bower_components/urank/helper/jquery_functions/pin.js"></script>
+    <script src="../../bower_components/urank/urank.js"></script>
+    <!-- endbower -->
+
+    <!-- injector:js -->
+    <!-- endinjector -->
+
+    <!-- App scripts -->
+    <script type="text/javascript" src="/js/dataset-manager.js" charset="utf-8" ></script>
+    <script type="text/javascript" src="/js/file-generator.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/js/main.js" charset="utf-8"></script>
+
+
+
+    </body>
+</html>

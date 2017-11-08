@@ -1,0 +1,33 @@
+<div id="header" class="container">
+    <!--<h2 class="page-header">Register</h2>-->
+    {{#if errors}}
+        {{#each errors}}
+            <div class="alert alert-danger">{{msg}}</div>
+        {{/each}}
+    {{/if}}
+    <form class="form-signin" method="post" action="/users/register">
+        <h2 class="form-signin-heading">User Register</h2>
+        <div class="form-group">
+            <!--<label>Name</label>-->
+            <input type="text" class="form-control" required autofocus placeholder="Name" name="name">
+        </div>
+        <div class="form-group">
+            <!--<label>Username</label>-->
+            <input type="text" class="form-control" required placeholder="Username" name="username">
+        </div>
+        <div class="form-group">
+            <!--<label>Email</label>-->
+            <input type="email" class="form-control" required placeholder="Email" name="email">
+        </div>
+        <div class="form-group">
+            <!--<label>Password</label>-->
+            <input type="password" class="form-control" required placeholder="Password" name="password">
+        </div>
+        <div class="form-group">
+            <!--<label>Confirm Password</label>-->
+            <input type="password" class="form-control" required placeholder="Confirm Password" name="password2">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+        <a href="/users/login" style="margin-left: 20px; color: white; font-size: 1.3em;"><< Back to log in</a>
+    </form>
+</div>

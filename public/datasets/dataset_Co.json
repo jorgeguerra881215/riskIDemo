@@ -1,0 +1,23 @@
+[
+    {
+        "id":"147.32.84.134-147.32.80.9-53-udp",
+        "title":"From Normal UDP DNS Oficial.DNS.Server 1",
+        "uri": "http://www.mendeley.com/catalog/robotics-motor-learning-neurologic-recovery/",
+        "eexcessURI": "http://www.mendeley.com/catalog/robotics-motor-learning-neurologic-recovery/",
+        "creator": "David J Reinkensmeyer, Jeremy L Emken, Steven C Cramer",
+        "description":"11.R. 1.R.R .R.R. R.R.R .R.R. R.R.R .R.R. R.R.R .R.R. R.R.R .R.R. R.R.R .R.R. R.R.R .R.R. R.R.R .R. R.R.R .R.R. R.R.R .R.R." ,
+        "collectionName": "Annual review of biomedical engineering",
+        "facets": {"provider": "mendeley","year": "2004"}
+    },
+    {
+        "id":"147.32.84.134-2.20.182.19-443-tcp",
+        "title":"From Normal TCP HTTPS WebPage 2",
+        "uri": "http://www.mendeley.com/catalog/robotics-motor-learning-neurologic-recovery/",
+        "eexcessURI": "http://www.mendeley.com/catalog/robotics-motor-learning-neurologic-recovery/",
+        "creator": "David J Reinkensmeyer, Jeremy L Emken, Steven C Cramer",
+        "description":"99.Z. 9.Z.I .Z.I. Z.I.Z .I.Z. I.Z.Z .Z.Z. Z.Z.Z .Z.Z. Z.Z.z .Z.z. Z.z.z .z.z. z.z.Z .z.Z. z.Z.Z .Z.Z. Z.Z.Z .Z.Z. ",
+        "collectionName": "Annual review of biomedical engineering",
+        "facets": {"provider": "mendeley","year": "2004"}
+    }
+
+]

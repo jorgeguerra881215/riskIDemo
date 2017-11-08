@@ -1,0 +1,172 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                {{#if user}}
+                    <li role="presentation"><a href="/">
+                        RiskID
+                        <span id="username" style="display: none">{{user.name}}</span>
+                        <span id="usertoken" style="display: none">{{user.token}}</span></a></li>
+                    <li role="presentation"><a id="close-session-link" href="/users/logout">End Task and Close Session <span id="sessionid" style="display: none">{{sessionId}}</span></a></li>
+                {{else}}
+                    <li role="presentation"><a href="/users/login">Login</a></li>
+                    <li role="presentation"><a href="/users/register">Register</a></li>
+                {{/if}}
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+<header>                            <!-- top panel -->
+    <div class="header-menu" id="header-menu-1">
+        <select id="select-dataset"></select>
+        <select id="select-download" style="display: none">
+            <option value="2files">Keyword &amp; ranking in 2 files</option>
+            <option value="1file">All in 1 file</option>
+        </select>
+        <input type="button" id="btn-download" value="Download" style="display: none"/>
+        <input type="button" id="btn-save-labeled" value="Save Labeling"/>
+        <input type="button" id="btn-show-legend" title="Connection Legend" value="Legend"/>
+    </div>
+
+    <div class="header-menu" id="header-menu-2">
+        <div id="header-filter-ip-origin"><!-- <input type="checkbox">-->
+        </div>
+        <div id="header-filter-ip-destino"></div>
+        <div id="header-filter-ip-port"></div>
+        <div id="header-filter-ip-protocol"></div>
+    </div>
+</header>
+<div id="dialog" title="Connection Legend">
+    <p>
+        SP => Strong Periodicity </br>
+        WP => Weak Periodicity </br>
+        WNP=> Weak Non-Periodicity </br>
+        SNP=> Strong Non-Periodicity </br>
+        DS => Duration Short </br>
+        DM => Duration Medium </br>
+        DL => Duration Long </br>
+        SS => Size Small </br>
+        SM => Size Medium </br>
+        SL => Size Large </br>
+    </p>
+</div><div id="dialog-seguence" title="Connection Sequence">
+    <p></p>
+</div>
+<div class="main-panel">
+    <div class="tagCloud-control-panel" style="display: none">
+        <label class="label-slider" for="stfValue">STF connections:</label>
+        <input type="text" id="stfValue" class="slidevalue" value="0">
+        <div id="slider-6"></div>
+
+        <label class="label-slider" for="patternValue">Number of Pattern:</label>
+        <input type="text" id="patternValue" class="slidevalue" value="0">
+        <div id="slider-pattern"></div>
+
+        <!--<label class="label-slider" for="patternValue">Length of sequences:</label>
+        <input type="text" id="lengthValue" class="slidevalue" value="5">
+        <div id="slider-length"></div>-->
+    </div>
+
+    <!--<div id="tagcloud-container">
+                <div id="tagCloud-controlPanel" class="ranking-controls">
+                    <div id="tagCloud-slideControl">
+                        <label class="label-slider" for="lengthValue">Length of sequences:</label>
+                        <input type="text" id="lengthValue" class="slidevalue" value="5">
+                        <div id="slider-length"></div>
+                    </div>
+                    <div>
+                        <button id="btn-sort-by-periodicity" title="Sort by periodicity feature" style="margin-top: 0px;">
+                            <span class="sprite-sort-down"></span>
+                        </button>
+                        <button id="btn-tagCloud-reset" title="Reset" style="margin-top: 0px;">
+                            <span class="sprite-reset"></span>
+                        </button>
+                    </div>
+                </div>
+                <div id="tagcloud">
+
+                </div>
+            </div>-->
+    <!-- left panel -->
+
+    <div class="central-panel">     <!-- central panel, including list and ranking -->
+
+        <div class="control-panel">
+            <div class="ranking-controls middle-panel">
+                <button id="btn-reset" title="Reset">
+                    <span class="sprite-reset"></span>
+                </button>
+                <!--<button id="btn-sort-by-overall-score" title="Sort by overall score">
+                    <span class="sprite-sort-down"></span>
+                </button>
+                <button id="btn-sort-by-max-score" title="Sort by maximum score">
+                    <span class="sprite-wiggle"></span>
+                </button>
+                <button id="btn-find-not-labeled" title="Sort by maximum score">
+                    <span class="btn-reset"></span>
+                </button>-->
+
+                <input type="radio" name="connection-label" id="chek-find-not-labeled" value="Unlabelled"><label>Unlabelled</label>
+                <input type="radio" name="connection-label" id="chek-find-botnet" value="Botnet"><label>Bot</label>
+                <input type="radio" name="connection-label" id="chek-find-normal" value="Normal"><label>No Bot</label>
+                <input type="radio" name="connection-label" id="chek-find-All" value="All"><label>All</label>
+
+                <!--<div id="urank-stf-legend">
+                    <label style="padding: 5px; margin-left: -25px">SP</label>
+                    <label style="padding: 5px; margin-left: -9px">WP</label>
+                    <label style="padding: 5px; margin-left: -6px">WNP</label>
+                    <label style="padding: 5px; margin-left: -9px">SNP</label>
+                    <label style="padding: 5px; ">DS</label>
+                    <label style="padding: 5px; margin-left: -4px">DM</label>
+                    <label style="padding: 5px; margin-left: -4px">DL</label>
+                    <label style="padding: 5px; ">SS</label>
+                    <label style="padding: 5px; margin-left: -3px">SM</label>
+                    <label style="padding: 5px; margin-left: -6px">SL</label>
+                </div>-->
+                <div id="urank-stf-legend">
+                    <div style="float: left; width: 51px">
+                        <label style="visibility: hidden">abc</label>
+                    </div>
+                    <div style="float: left; width: 58%; margin-left: 5px">
+                        <div>
+                            <div style="float: left; width: 19%;visibility: hidden">
+                                <label><span urank-span-id="158" class="urank-list-li-button-favicon-default-left red-circle traffic-ligth"></span></label>
+                                <label>1-&nbsp;&nbsp;</label>
+                            </div>
+                            <div style="float: left; width: 72%; text-align: left">
+                                <!--<label class="characteristic">SP</label>
+                                <label class="characteristic">WP</label>
+                                <label style="font-size: 0.7em; margin-left: -3px" class="characteristic">WNP</label>
+                                <label style="font-size: 0.7em; margin-left: -1px" class="characteristic">SNP</label>
+                                <label class="characteristic">DS</label>
+                                <label class="characteristic">DM</label>
+                                <label class="characteristic">DL</label>
+                                <label class="characteristic">SS</label>
+                                <label class="characteristic">SM</label>
+                                <label class="characteristic">SL</label>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div style="float: left; width: 58px">
+                        <label style="visibility: hidden">abc</label>
+                    </div>
+                </div>
+
+            </div>
+
+            <div id="tagbox"></div>
+
+        </div>
+
+        <div class="vis-panel">
+            <div id="contentlist"></div>
+            <div id="viscanvas"></div>
+            <div style="clear: both; height: 20px"></div>
+        </div>
+    </div>
+    <div id="docviewer"></div>      <!-- right panel -->
+
+</div>
+
+<div class="processing-message">Processing Data...</div>

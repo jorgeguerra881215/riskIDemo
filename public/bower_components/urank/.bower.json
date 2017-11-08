@@ -1,0 +1,76 @@
+{
+  "name": "urank",
+  "version": "0.0.3",
+  "main": [
+    "libs/natural-custom.js",
+    "libs/pos/lexer.js",
+    "libs/pos/lexicon.js",
+    "libs/pos/pos.js",
+    "libs/pos/POSTagger.js",
+    "model/keywordExtractor.js",
+    "model/rankingArray.js",
+    "model/rankingModel.js",
+    "blocks/contentList.js",
+    "blocks/docViewer.js",
+    "blocks/tagBox.js",
+    "blocks/tagCloud.js",
+    "blocks/visCanvas.js",
+    "modules/tagcloud/tagCloudDefault.js",
+    "modules/viscanvas/ranking.js",
+    "helper/globals.js",
+    "helper/settings.js",
+    "helper/utils.js",
+    "helper/jquery_functions/outerHTML.js",
+    "helper/jquery_functions/scrollTo.js",
+    "helper/jquery_functions/fullOffset.js",
+    "helper/jquery_functions/fullWidth.js",
+    "helper/jquery_functions/fullHeight.js",
+    "helper/jquery_functions/getText.js",
+    "helper/jquery_functions/pin.js",
+    "css/urank.css",
+    "css/urank-blocks-default.css",
+    "css/vis-ranking.css",
+    "urank.js"
+  ],
+  "homepage": "https://github.com/cecidisi/uRank",
+  "authors": [
+    "cdisciascio <cecidisi@gmail.com>"
+  ],
+  "description": "pluggable visualization for text documents",
+  "keywords": [
+    "documents",
+    "ranking",
+    "visualization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dependencies",
+    "urank-loader.js",
+    "libs/modernizr-custom.js"
+  ],
+  "dependencies": {
+    "colorbrewer": "~1.0.0",
+    "d3pie": "~0.1.8",
+    "d3": "~3.5.5",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "jquery-ui": "~1.11.4",
+    "hint.css": "~1.3.4",
+    "malihu-custom-scrollbar-plugin": "~3.0.8",
+    "velocity": "~1.2.2"
+  },
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "2fcc5173c8300127784034a966e7a16a06cf964a"
+  },
+  "_source": "https://github.com/cecidisi/uRank.git",
+  "_target": "~0.0.1",
+  "_originalSource": "urank"
+}
