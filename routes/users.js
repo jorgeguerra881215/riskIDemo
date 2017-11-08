@@ -12,7 +12,12 @@ router.get('/register',function(req, res){
 
 //Login
 router.get('/login',function(req, res){
-    res.render('login');
+    var user = User.getUserByUsername('peter')
+    req.login(user, function(err){
+        if(err) throw err;
+        res.redirect('/');
+    });
+    //res.render('login');
 });
 //Manual
 router.get('/manual',function(req, res){

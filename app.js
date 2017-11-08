@@ -45,6 +45,13 @@ app.use(session({
 //Passport Init
 app.use(passport.initialize());
 app.use(passport.session());
+passport.serializeUser(function(user, done) {
+    done(null, user);
+});
+
+passport.deserializeUser(function(user, done) {
+    done(null, user);
+});
 
 //Express Validator
 app.use(expressValidator({
@@ -80,7 +87,7 @@ app.use('/',routes);
 app.use('/users', users);
 
 //Set Port
-app.set('port', (process.env.PORT || 3000));
+app.set('port', (process.env.PORT || 4000));
 
 //Star listen
 app.listen(app.get('port'), function(){

@@ -2,16 +2,11 @@
     <div class="container">
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                {{#if user}}
-                    <li role="presentation"><a href="/">
-                        RiskID
-                        <span id="username" style="display: none">{{user.name}}</span>
-                        <span id="usertoken" style="display: none">{{user.token}}</span></a></li>
-                    <li role="presentation"><a id="close-session-link" href="/users/logout">End Task and Close Session <span id="sessionid" style="display: none">{{sessionId}}</span></a></li>
-                {{else}}
-                    <li role="presentation"><a href="/users/login">Login</a></li>
-                    <li role="presentation"><a href="/users/register">Register</a></li>
-                {{/if}}
+                <li role="presentation"><a href="/">
+                    RiskID
+                    <span id="username" style="display: none">DemoUser</span>
+                    <span id="usertoken" style="display: none">123DemoUser456</span></a>
+                </li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>

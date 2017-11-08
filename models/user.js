@@ -36,7 +36,7 @@ module.exports.createUser = function(newUser, callback){
 
 module.exports.getUserByUsername = function(username, callback){
     var query = {username: username};
-    User.findOne(query,callback);
+    return User.findOne(query,callback);
 }
 
 module.exports.comparePassword = function(candidatePassword,hash,callback){
