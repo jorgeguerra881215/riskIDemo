@@ -114,7 +114,7 @@ var Urank = (function(){
 
 var enterLog = function(value){
     //var scriptURL = "http://localhost/loginapp/server/log.php",
-    var scriptURL = "http://itic.uncu.edu.ar:8880/riskID/app/server/log.php",
+    var scriptURL = "http://itic.uncu.edu.ar:8880/riskIDemo/server/log.php",
         date = new Date(),
         timestamp = date.getFullYear() + '-' + (parseInt(date.getMonth()) + 1) + '-' + date.getDate() + '_' + date.getHours() + '.' + date.getMinutes() + '.' + date.getSeconds(),
         userName = $('#username').html(),
@@ -1063,7 +1063,7 @@ var enterLog = function(value){
          */
         onEnterLog: function(value){
             //var scriptURL = "http://localhost/loginapp/server/log.php",
-            var scriptURL = "http://itic.uncu.edu.ar:8880/riskID/app/server/log.php",
+            var scriptURL = "http://itic.uncu.edu.ar:8880/riskIDemo/server/log.php",
                 date = new Date(),
                 timestamp = date.getFullYear() + '-' + (parseInt(date.getMonth()) + 1) + '-' + date.getDate() + '_' + date.getHours() + '.' + date.getMinutes() + '.' + date.getSeconds(),
                 userName = $('#username').html(),
