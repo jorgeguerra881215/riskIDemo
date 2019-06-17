@@ -3,11 +3,6 @@
 RiskID is a web application designed to generate fully labeled connection datasets. It uses visualization techniques and label recommendations to give the user greater support in the labeling process.
 ## Getting Started 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Prerequisites 📋
 For a correct operation of RiskID, you should have the following:
  - An Ubuntu 16.04 (or high) server and a regular, non-root user with sudo privileges.
@@ -45,7 +40,7 @@ $ sudo apt install npm
 ```
 
 
-### Instalación 🔧
+### Installing 🔧
 
 If the prerequisites are met, installing the RiskID demo and starting to label is very easy.
 
@@ -67,12 +62,12 @@ $ node riskIDemo/app.js
 Finally point the web browser to http://localhots:3000
 
 
-## Ejecutando las pruebas ⚙️
+## Running the tests ⚙️
 
 Initially the application comes with a set of previously loaded connections. A part of this dataset has been labeled and the rest has a label recommendation. To start using the application it is necessary to create a user and start session.
 
 
-## Construido con 🛠️
+## Built With 🛠️
 
 This version of RiskID was developed using:
 * [PyCharm](https://www.jetbrains.com/pycharm/) - IDE
@@ -80,7 +75,7 @@ This version of RiskID was developed using:
 * [NODEJS](https://nodejs.org/) - Environment
 
 
-## Autores ✒️
+## Authors ✒️
 
 * **Jorge L. Guerra** - *Main developer* - [jorge](https://github.com/jorgeguerra881215)
 * **Eduardo Veas** - *Visualization skill* - [eduveas]()
